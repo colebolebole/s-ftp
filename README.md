@@ -1,9 +1,7 @@
 # s-ftp (soms-ftp)
 
----
-
-# Installation
-"pip install ``pyftpdlib``
+- Installation
+``pip install pyftpdlib``
 
 ---
 
